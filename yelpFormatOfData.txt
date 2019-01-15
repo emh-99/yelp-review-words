@@ -1,0 +1,4 @@
+{Business ID, Business Name, Business Address, review written like this separated with spaces and with no punctuation}
+{Business ID2, Business Name2, Business Address2, review also written like this etc.}
+
+//I am unable to include the dataset because it was not to be redistributed, but above is the format in which the data was provided in. There were 85,539 businesses in total and the longest review had a character count of 3780749 characters. 
